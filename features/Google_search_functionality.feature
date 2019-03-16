@@ -8,3 +8,6 @@ Google_search_functionality
   Scenario:Verify google icons
   When user on google home page
   Then user select following icons
+Scenario: verify maos icon
+when user select map icon
+And user validate display list
